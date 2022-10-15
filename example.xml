@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ships>
+	<ship>
+		<name>USS Gettysburg</name>
+		<type>CG</type>
+		<hull>64</hull>
+		<moto>Deeds Not Words</moto>
+	</ship>
+	<ship>
+		<name>USS Nimitz</name>
+		<type>CVN</type>
+		<hull>68</hull>
+		<moto>Teamwork, a tradition</moto>
+	</ship>
+	<ship>
+		<name>USS Cole</name>
+		<type>DDG</type>
+		<hull>67</hull>
+		<moto>Gloria Merces Virtutis</moto>
+	</ship>
+	<ship>
+		<name>USS Boxer</name>
+		<type>LHD</type>
+		<hull>4</hull>
+		<moto>Honor, Courage, Strength</moto>
+	</ship>
+	<ship>
+		<name>USS Phillipine Sea</name>
+		<type>CG</type>
+		<hull>68</hull>
+		<moto></moto>
+	</ship>
+</ships>

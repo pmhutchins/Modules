@@ -1,0 +1,19 @@
+{
+	"restaurants": [
+		{
+			"name": "McDonalds",
+			"food": "burgers",
+			"type": "fast food"
+		},
+		{
+			"name": "Waffle House",
+			"food": "breakfast",
+			"type": "diner"
+		},
+		{
+			"name": "Buffalo Wild Wings",
+			"food": "chicken wings",
+			"type": "sports bar"
+		}
+	]
+}

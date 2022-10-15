@@ -1,0 +1,23 @@
+---
+- Restaurants:
+    - name: Mcdonalds
+    - type: fast food
+    - menu:
+        - Cheeseburger
+        - Fries
+        - Big Mac
+
+    - name: Waffle House
+    - type: diner
+    - menu: 
+        - Waffles
+        - Hash Browns
+        - Eggs
+
+    - name: Buffalo Wild Wings
+    - type: sports bar
+    - menu:
+        - Wings
+        - Burgers
+        - Chicken
+...

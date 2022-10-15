@@ -1,0 +1,11 @@
+---
+- name: Backup IOS
+  hosts: DevNetLab
+  connection: local
+  tasks:
+    - name: Backup IOS
+      ios_config:
+        backup: yes
+        backup_options:
+            filename: backup.cfg
+            dir_path: ./backups
